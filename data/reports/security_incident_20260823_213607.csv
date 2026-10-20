@@ -1,0 +1,7 @@
+Timestamp (UTC),Type,Severity,Device,Description,Resolved
+2026-08-23 21:36:05.532730,AFTER_HOURS_CONNECTION,MEDIUM,Generic USB Storage Device,Device 'Generic USB Storage Device' connected outside configured business hours (08:00-18:00) at 21:36 UTC.,No
+2026-08-23 21:36:05.532290,POLICY_VIOLATION,HIGH,Generic USB Storage Device,Connection of 'Generic USB Storage Device' denied by policy: Matched policy 'Block unknown devices by default' (priority 100).,No
+2026-08-23 21:36:05.531714,UNKNOWN_USB,MEDIUM,Generic USB Storage Device,Device 'Generic USB Storage Device' has never been approved by an administrator.,No
+2026-08-23 21:36:05.136524,AFTER_HOURS_CONNECTION,MEDIUM,Kingston DataTraveler 3.0,Device 'Kingston DataTraveler 3.0' connected outside configured business hours (08:00-18:00) at 21:36 UTC.,No
+2026-08-23 21:36:05.136072,POLICY_VIOLATION,HIGH,Kingston DataTraveler 3.0,Connection of 'Kingston DataTraveler 3.0' denied by policy: Matched policy 'Block unknown devices by default' (priority 100).,No
+2026-08-23 21:36:05.135239,UNKNOWN_USB,MEDIUM,Kingston DataTraveler 3.0,Device 'Kingston DataTraveler 3.0' has never been approved by an administrator.,No
